@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 })
 export class departamentoService {
 
-  url='http://localhost/prodescubre/src/app/php/departamento/';
+  url='http://localhost/descubretuviaje/src/app/php/departemento/';
 
   constructor(private http:HttpClient) { }
 

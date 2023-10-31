@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 })
 export class AdministradoresService {
 
-  url='http://localhost/prodescubre/src/app/php/administradores/';
+  url='http://localhost/descubretuviaje/src/app/php/administradores/';
 
   constructor(private http:HttpClient) { }
 
